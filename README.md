@@ -74,7 +74,9 @@ Convert the notebook into a standalone script for direct execution:
 
 Below is a sample output from the project:
 
-Emotion Detection Example: ![Emotion](sad_woman.png)
+Emotion Detection Example: 
+
+![Emotion](sad_woman.png)
 
 ============================================
 ## 6. DEPENDENCIES
