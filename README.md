@@ -21,6 +21,7 @@ on a live video feed.
 ============================================
 ## 1. OVERVIEW
 ============================================
+
 Emotion recognition is an exciting domain in AI and computer vision. This project enables:
 - Real-time detection of facial emotions like happy, sad, angry, and more.
 - Integration with live video feed to draw emotion-based annotations.
@@ -28,6 +29,7 @@ Emotion recognition is an exciting domain in AI and computer vision. This projec
 ============================================
 ## 2. FEATURES
 ============================================
+
 - Real-time Emotion Detection: Detects emotions directly from your webcam feed.
 - Face Detection: Draws bounding boxes around detected faces.
 - User-Friendly Notebook Interface: Designed to simplify execution.
@@ -36,6 +38,7 @@ Emotion recognition is an exciting domain in AI and computer vision. This projec
 ============================================
 ## 3. INSTALLATION
 ============================================
+
 Follow these steps to set up the project:
 
 1. Clone the Repository:
@@ -52,6 +55,7 @@ Follow these steps to set up the project:
 ============================================
 ## 4. USAGE
 ============================================
+
 To use this project, follow these steps:
 
 Using Jupyter Notebook:
@@ -67,6 +71,7 @@ Convert the notebook into a standalone script for direct execution:
 ============================================
 ## 5. DEMO
 ============================================
+
 Below is a sample output from the project:
 
 Emotion Detection Example: ![Emotion](images/sad_woman.jpg)
@@ -74,6 +79,7 @@ Emotion Detection Example: ![Emotion](images/sad_woman.jpg)
 ============================================
 ## 6. DEPENDENCIES
 ============================================
+
 The project requires the following Python packages:
 - OpenCV (opencv-python, opencv-contrib-python)
 - DeepFace (deepface)
@@ -84,6 +90,7 @@ The project requires the following Python packages:
 ============================================
 ## 7. CONTRIBUTING
 ============================================
+
 Contributions are welcome! Here’s how you can help:
 
 - 1. Fork the repository.
@@ -100,11 +107,13 @@ Contributions are welcome! Here’s how you can help:
 ============================================
 ## 8. LICENSE
 ============================================
+
 This project is licensed under the MIT License.
 
 ============================================
 ## ACKNOWLEDGMENTS
 ============================================
+
 Special thanks to:
 - DeepFace for providing powerful facial analysis.
 - OpenCV for image and video processing capabilities.
