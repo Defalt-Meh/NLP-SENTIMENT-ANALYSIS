@@ -42,7 +42,7 @@ Emotion recognition is an exciting domain in AI and computer vision. This projec
 Follow these steps to set up the project:
 
 1. Clone the Repository:
-   git clone [https://github.com/your-username/real-time-emotion-detection.git](https://github.com/Defalt-Meh/NLP-SENTIMENT-ANALYSIS.git)
+   git clone https://github.com/Defalt-Meh/NLP-SENTIMENT-ANALYSIS.git
    cd real-time-emotion-detection
 
 2. Set Up Python Environment:
