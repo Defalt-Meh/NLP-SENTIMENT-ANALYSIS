@@ -43,13 +43,14 @@ Follow these steps to set up the project:
 
 1. Clone the Repository:
    git clone https://github.com/Defalt-Meh/NLP-SENTIMENT-ANALYSIS.git
+
    cd real-time-emotion-detection
 
-2. Set Up Python Environment:
+3. Set Up Python Environment:
    python3 -m venv venv
    source venv/bin/activate  # For Linux/Mac
 
-3. Jupyter Notebook Setup:
+4. Jupyter Notebook Setup:
    pip install notebook
 
 ============================================
